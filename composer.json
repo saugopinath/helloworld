@@ -1,10 +1,6 @@
 {
     "name": "saugopinath/helloworld",
-    "description": "My first Composer project",
-    "autoload": {
-        "psr-0": {
-            "HelloWorld": "src/"
-        }
-    }
+    "description": "My first Composer project"
+    
     
 }
